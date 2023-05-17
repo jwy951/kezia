@@ -1,6 +1,6 @@
-# LILIAN-ONLINE-PIZZA-INN
+# KEZIA-ONLINE-PIZZA-INN
 ## Author
-LILIAN CHEMUTAI
+YEGON c. JOHNSTONE
 ## Description
 It is a website that allows the user to order for pizza by selecting the size of the pizza, whether large,medium or small. The user also can pick the Topping, and select crush, either one or more. The system will calculate the total cost and ask the customer if they need delivery services or not. Upon requesting for the delivery, they will be asked to pay an extra payment of  KSH 150.
 ### Prerequisites
